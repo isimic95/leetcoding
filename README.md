@@ -1,2 +1,2 @@
 # leetcoding
-Just some leet code from leetcode, codesignal etc.
+Solutions for some problems from leetcode, codesignal etc.
